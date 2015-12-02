@@ -15,3 +15,5 @@ Right click on the link below and select `Save link as...` to watch a video demo
 Feel free to use the code you already wrote for jQuery Tic-Tac-Toe to pass the first seven tests.
 
 The new tests this time only test that there's a button I can click that will pop up a view of the state of the board at the end of last game. We're intentionally not going to guide or test HOW you implement that functionality.
+
+<a href='https://learn.co/lessons/jquery-tictactoe-with-persistence' data-visibility='hidden'>View this lesson on Learn.co</a>
